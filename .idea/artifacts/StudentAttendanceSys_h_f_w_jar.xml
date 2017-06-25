@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="StudentAttendanceSys_h_f_w:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentAttendanceSys_h_f_w_jar</output-path>
+    <root id="root">
+      <element id="archive" name="StudentAttendanceSys_h_f_w.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="StudentAttendanceSys_h_f_w" />
+      </element>
+      <element id="directory" name="AttendenceSys">
+        <element id="file-copy" path="$PROJECT_DIR$/mysql-connector-java-5.1.39-bin.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
